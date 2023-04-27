@@ -1,2 +1,19 @@
-# TampereDroneDataset
-Homepage of Tampere drone dataset
+---
+layout: default
+---
+
+# Hardware setup
+
+TODO
+
+## Data format
+
+TODO
+
+# Known issues
+
+TODO
+
+# License
+
+TODO

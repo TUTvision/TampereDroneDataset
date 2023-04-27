@@ -1,0 +1,5 @@
+source "https://rubygems.org"
+gem "github-pages"
+gem "jekyll-readme-index"
+gem "minima"
+gem "webrick"
