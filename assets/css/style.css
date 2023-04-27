@@ -1,11 +1,27 @@
-.page-content {
-
-}
-
 .wrapper {
     margin-top: 5em;
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 10em;
+    font-size: 120%;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.wrapper h1 { font-size: 230%; }
+.wrapper h2 { font-size: 200%; }
+.wrapper h3 { font-size: 130%; }
+.wrapper h4 { font-weight: bold; }
+
+.wrapper h1, .wrapper h2, .wrapper h3, .wrapper h4  {    
+    margin-top: 0.6em;
+    margin-bottom: 0.2em;
+}
+
+.wrapper ul {
+    list-style: disc;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 2em;
 }
